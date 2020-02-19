@@ -1,6 +1,6 @@
 # Docker and kubernetes the complete guide
 
-Based on <https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/learn/lecture/11437246#overview>
+Based on <https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/learn/lecture/11437356>
 
 in client dir
 
