@@ -13,6 +13,6 @@
   },
   "scripts": {
     "dev": "nodemon",
-    "start": "nodex index.js"
+    "start": "node index.js"
   }
 }
